@@ -1,4 +1,4 @@
-# pro.red
+# pro.ia
 repositorio criado com intenção de ajudar com introdução ao mundo das IAs
 Git/Github
 
