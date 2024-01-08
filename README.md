@@ -9,6 +9,7 @@ Pesquise na Web: pode parecer óbvio, mas é importante frisar a importância da
 
 
 Dicas/Links Úteis
+
 [1]-Introdução à Inteligência Artificial.pptx
 
 [2]-Inteligência Artificial x Machine Learning.pptx
